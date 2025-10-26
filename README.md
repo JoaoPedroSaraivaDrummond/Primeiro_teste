@@ -1,0 +1,1 @@
+Testando o Git e GitHub pelo terminal
